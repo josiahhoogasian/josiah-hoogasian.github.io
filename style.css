@@ -1,10 +1,10 @@
 :root {
-  --bg: #ffffff;
-  --surface: #f5f7fa;
-  --text: #1c2430;
-  --muted: #5b6676;
-  --accent: #0b5fff;
-  --border: #e2e7ee;
+  --bg: #ffffff;        /* page background */
+  --surface: #f5f7fa;   /* card and skills-box backgrounds */
+  --text: #1c2430;      /* main text */
+  --muted: #5b6676;     /* gray secondary text */
+  --accent: #0b5fff;    /* links, buttons, "eyebrow" text */
+  --border: #e2e7ee;    /* thin outlines */
   --radius: 10px;
   --max: 1060px;
 }
@@ -15,7 +15,7 @@
     --surface: #171e26;
     --text: #e8edf3;
     --muted: #9aa6b6;
-    --accent: #5b9bff;
+    --accent: #341E9E;
     --border: #263040;
   }
 }
